@@ -11,9 +11,9 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Natan-yoda" height="180em" src="https://64.media.tumblr.com/97750ca1b4e46b16832b9aab4132ea0b/tumblr_mz5ttwnpbf1sgcbk7o3_r1_250.gifv" >
 </div>
     
